@@ -1,0 +1,12 @@
+{
+  "name": "Task_Reminder",
+  "displayName": "Task_Reminder",
+  "expo": {
+    "name": "Task_Reminder",
+    "slug": "Task_Reminder",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}
